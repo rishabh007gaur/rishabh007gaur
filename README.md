@@ -39,7 +39,7 @@ I'm a Pre-Final Year B.Tech Information Technology student at NIET, passionate a
 ## Coding Profiles
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-rgaur__rishabh-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/rgaur_rishabh/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-rgaur__rishabh-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/rgaur_rishabh)
+[![CodeChef](https://img.shields.io/badge/CodeChef-rishabh_rgaur-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/rishabh_rgaur)
 
 ---
 
